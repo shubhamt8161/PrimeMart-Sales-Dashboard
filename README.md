@@ -66,8 +66,6 @@ The analysis was performed on a retail dataset containing **10,000+ sales transa
 
 ## 📸 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-
 ![PrimeMart Dashboard](Dashboard.png)
 
 ---
